@@ -1,0 +1,11 @@
+/* Write your CSS here */
+li {
+  list-style-type: none;
+}
+.list-items {
+  display: flex;
+  justify-content: space-between;
+}
+button {
+  color: red;
+}

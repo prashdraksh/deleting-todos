@@ -1,0 +1,16 @@
+/* Write your CSS here */
+.bg-container {
+  background-color: #ffc2a0;
+  height: 100vh;
+  padding: 20px;
+}
+.inner-container {
+  background-color: #ffffff;
+  margin: 50px;
+  border-radius: 10px;
+  padding: 30px;
+  text-align: center;
+}
+h1 {
+  color: #ff8542;
+}
